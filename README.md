@@ -18,7 +18,7 @@
 Clone the repository
 
 ```bash
-https://github.com/sandysingh/End-to-end-Text-Summarization
+https://github.com/sandeepsinghevolve/Text-Summarizer.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -49,9 +49,9 @@ open up you local host and port
 
 
 ```bash
-Author: Sandy Singh
+Author: Sandeep Kumar Singh
 Data Scientist
-Email: xxxx@gmail.com
+Email: sandeepsingh.evolve@gmail.com
 
 ```
 
